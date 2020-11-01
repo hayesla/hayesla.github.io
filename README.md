@@ -2,4 +2,4 @@
 
 https://hayesla.github.io/
 
-A place for some info, interests and the random blog postß
+A place for some info, interests and the random blog posts
