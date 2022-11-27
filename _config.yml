@@ -1,9 +1,25 @@
 theme: minima
+author:
+  name: hayesla
+  # email: your-email@domain.com
+
+description: > # this means to ignore newlines until "show_excerpts:"
+Draft version of my personal webpage 
+
+
 title: Laura A. Hayes
-description: Draft version of my personal webpage 
 
+minima:
+  date_format: "%b %-d, %Y"
 
+  # generate social links in footer
+  social_links:
+    - { platform: github,         user_url: "https://github.com/hayesla" }
+    - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=hT9ABisAAAAJ&hl=en" }
+    - { platform: linkedin,       user_url: "https://www.linkedin.com/in/hayesla/" }
+    - { platform: twitter,        user_url: "https://twitter.com/laura_hayess" }
 
+show_excerpts: false # set to true to show excerpts on the homepage
 
 plugins:
  - jekyll-feed
