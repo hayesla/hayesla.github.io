@@ -1,5 +1,11 @@
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
 title: Laura A. Hayes
 description: Draft version of my personal webpage 
 
 
+# Build settings
+theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
